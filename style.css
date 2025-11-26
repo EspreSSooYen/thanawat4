@@ -61,7 +61,7 @@ body {
   font-size: 0.95rem;
 }
 .profile{
-    background-image:url(FF.webp);
+    background-image:url(....png);
     background-size: cover;
     background-position: center;
     width: 700px;
@@ -275,4 +275,5 @@ footer {
   width: 30px;
   height: 30px;
   transition: transform 0.2s ease;
+
 }
